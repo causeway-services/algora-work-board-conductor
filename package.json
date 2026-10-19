@@ -25,5 +25,9 @@
   },
   "scripts": {
     "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/algora-work-board-conductor.git"
   }
 }
